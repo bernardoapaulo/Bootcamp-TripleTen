@@ -4,6 +4,10 @@ Bem-vindo ao meu portfólio de projetos desenvolvidos durante o bootcamp de Aná
 
 Cada projeto tem um objetivo específico, ferramentas utilizadas e insights gerados. Confira a descrição detalhada de cada projeto abaixo:
 
+## English
+
+This portfolio showcases 12+ data analysis projects developed during the TripleTen Data Analytics bootcamp. The projects cover Python fundamentals, data cleaning, exploratory analysis, statistical testing, A/B experiments, SQL queries, business analytics, dashboards, and machine learning. Each project highlights specific objectives, tools, and insights—ranging from user-behavior analysis and marketing optimization to churn prediction and interactive Tableau dashboards. The final capstone project brings all skills together through hypothesis testing, SQL, data visualization, and a business presentation.
+
 ## 📁 Projeto 1: Python Básico
 Primeiro projeto onde foram praticados os fundamentos de Python, como:
 - Tipos de dados: int, float, bool
@@ -30,6 +34,13 @@ Análise de planos pré-pagos da empresa de telecomunicações Megaline para det
 - Análise de comportamento dos clientes.
 - Comparação estatística dos planos usando testes de hipótese.
 - Insights gerados para o departamento comercial.
+
+## 📁 Projeto 5: Criação de Botão
+O projeto foi criado para desenvolver um botão que cria um grafico de análise de dados, assim que o botão for clicado.
+- GitHub.
+- VSCode.
+- Python Intermediário.
+- Ambiente de programção individual.
 
 ## 📁 Projeto Integrado 1: Padrões de Vendas de Jogos
 Análise de vendas de jogos para a loja online Ice.
@@ -101,5 +112,5 @@ Projeto final integrando todas as habilidades aprendidas durante o curso:
 Sinta-se à vontade para entrar em contato comigo para discutir mais sobre os projetos:
 
 Email: bernardo-a@live.com
-LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/bernardo-almeida-228327232/)
-GitHub: [Seu GitHub](https://github.com/bernardoapaulo)
+LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/bernardo-almeida-228327232/)
+GitHub: [Meu GitHub](https://github.com/bernardoapaulo)
